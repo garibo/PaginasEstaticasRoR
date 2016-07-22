@@ -1,0 +1,4 @@
+== Paginas estaticas en Ruby on Rails
+
+Este es un ejemplo de paginas estaticas para Ruby on Rails
+
